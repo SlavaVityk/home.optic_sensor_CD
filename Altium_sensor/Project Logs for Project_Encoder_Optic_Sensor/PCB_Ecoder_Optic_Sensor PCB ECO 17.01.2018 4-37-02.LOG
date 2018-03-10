@@ -1,0 +1,17 @@
+Added Component: Designator=D1(LED 0603_BLUE)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "14.06.17"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "RED"; VariantName = "[No Variations]"
+Added Component: Designator=R17(RES_0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Case"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Designer"; Value = "Crom"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "19.05.14"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1.2k"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=D1-2
+Added Pin To Net: NetName=VIN Pin=R17-2
+Added Pin To Net: NetName=NetD1_1 Pin=D1-1
+Added Pin To Net: NetName=NetD1_1 Pin=R17-1
+Added Net: Name=NetD1_1
+Added Member To Class: ClassName=Shc_Encoder_Optic_Sensor Member=Component D1 LED 0603
+Added Member To Class: ClassName=Shc_Encoder_Optic_Sensor Member=Component R17 Thick Film Resistor 0402 5%

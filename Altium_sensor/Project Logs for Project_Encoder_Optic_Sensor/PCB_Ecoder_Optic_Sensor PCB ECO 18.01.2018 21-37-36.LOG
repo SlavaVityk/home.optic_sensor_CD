@@ -1,0 +1,3 @@
+Added Component: Designator=U?(BGA-64 (8x8))
+Add component. Clean all parameters for all variants
+Added Member To Class: ClassName=Shc_Encoder_Optic_Sensor Member=Component U? SAMR34J18B RevB

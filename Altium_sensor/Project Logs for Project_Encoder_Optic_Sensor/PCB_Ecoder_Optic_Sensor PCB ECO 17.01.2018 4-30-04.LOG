@@ -1,0 +1,15 @@
+Added Net: Name=GND
+Added Net: Name=NetC4_2
+Added Net: Name=NetR2_2
+Added Net: Name=NetR3_2
+Added Net: Name=NetR9_1
+Added Net: Name=NetR10_1
+Added Net: Name=NetR11_2
+Added Net: Name=NetR12_2
+Added Net: Name=OUT_CHA
+Added Net: Name=OUT_CHB
+Added Net: Name=SENSOR_CHA
+Added Net: Name=SENSOR_CHB
+Added Net: Name=VCC
+Added Net: Name=VIN
+Added Class: Name=Shc_Encoder_Optic_Sensor

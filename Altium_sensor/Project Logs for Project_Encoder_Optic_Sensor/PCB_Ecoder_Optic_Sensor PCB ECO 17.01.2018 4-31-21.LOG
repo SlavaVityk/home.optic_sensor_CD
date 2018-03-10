@@ -1,0 +1,242 @@
+Added Component: Designator=C1(TCAP SMA)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "25.01.2012"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "SMT case A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "22uF"; VariantName = "[No Variations]"
+Added Component: Designator=C2(CAP_0402_S)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Case"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Designer"; Value = "Crom"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "19.05.14"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Added Component: Designator=C3(CAP_0402_S)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Case"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Designer"; Value = "Crom"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "19.05.14"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Added Component: Designator=C4(CAP_0402_S)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Case"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Designer"; Value = "Crom"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "19.05.14"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Added Component: Designator=C5(CAP_0402_S)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Case"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Designer"; Value = "Crom"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "19.05.14"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10pF"; VariantName = "[No Variations]"
+Added Component: Designator=C6(CAP_0402_S)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Case"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Designer"; Value = "Crom"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "19.05.14"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Added Component: Designator=C7(CAP_0402_S)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Case"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Designer"; Value = "Crom"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "19.05.14"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10pF"; VariantName = "[No Variations]"
+Added Component: Designator=R1(RES_0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Case"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Designer"; Value = "Crom"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Latest Revision"; Value = "19.05.14"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "DNP"; VariantName = "[No Variations]"
+Added Component: Designator=R2(RES_0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Case"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Designer"; Value = "Crom"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "19.05.14"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "3.3k"; VariantName = "[No Variations]"
+Added Component: Designator=R3(RES_0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Case"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Designer"; Value = "Crom"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "19.05.14"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "22k"; VariantName = "[No Variations]"
+Added Component: Designator=R4(RES_0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Case"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Designer"; Value = "Crom"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "19.05.14"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1.2k"; VariantName = "[No Variations]"
+Added Component: Designator=R5(RES_0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Case"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Designer"; Value = "Crom"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "19.05.14"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1k"; VariantName = "[No Variations]"
+Added Component: Designator=R6(RES_0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Case"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Designer"; Value = "Crom"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Latest Revision"; Value = "19.05.14"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "180R"; VariantName = "[No Variations]"
+Added Component: Designator=R7(RES_0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Case"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Designer"; Value = "Crom"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "19.05.14"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "50R"; VariantName = "[No Variations]"
+Added Component: Designator=R8(RES_0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Case"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Designer"; Value = "Crom"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "19.05.14"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "DNP"; VariantName = "[No Variations]"
+Added Component: Designator=R9(RES_0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Case"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Designer"; Value = "Crom"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "19.05.14"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "180R"; VariantName = "[No Variations]"
+Added Component: Designator=R10(RES_0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Case"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Designer"; Value = "Crom"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "19.05.14"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "180R"; VariantName = "[No Variations]"
+Added Component: Designator=R11(RES_0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Case"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Designer"; Value = "Crom"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "19.05.14"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "3.3k"; VariantName = "[No Variations]"
+Added Component: Designator=R12(RES_0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Case"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Designer"; Value = "Crom"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "19.05.14"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "22k"; VariantName = "[No Variations]"
+Added Component: Designator=R13(RES_0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Case"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Designer"; Value = "Crom"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "19.05.14"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1.2k"; VariantName = "[No Variations]"
+Added Component: Designator=R14(RES_0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Case"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Designer"; Value = "Crom"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "19.05.14"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1k"; VariantName = "[No Variations]"
+Added Component: Designator=R15(RES_0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Case"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Designer"; Value = "Crom"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "19.05.14"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "50R"; VariantName = "[No Variations]"
+Added Component: Designator=R16(RES_0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Case"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Designer"; Value = "Crom"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "19.05.14"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "DNP"; VariantName = "[No Variations]"
+Added Component: Designator=U1(SOT-23-5)
+Add component. Clean all parameters for all variants
+Added Component: Designator=U2(SOIC-8-150)
+Add component. Clean all parameters for all variants
+Added Component: Designator=U3(SENSOR_OPTO-Encoder)
+Add component. Clean all parameters for all variants
+Added Component: Designator=X1(USB_mini)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=VCC Pin=C1-+
+Added Pin To Net: NetName=GND Pin=C1--
+Added Pin To Net: NetName=GND Pin=C2-1
+Added Pin To Net: NetName=VCC Pin=C2-2
+Added Pin To Net: NetName=GND Pin=C3-1
+Added Pin To Net: NetName=VIN Pin=C3-2
+Added Pin To Net: NetName=GND Pin=C4-1
+Added Pin To Net: NetName=NetC4_2 Pin=C4-2
+Added Pin To Net: NetName=GND Pin=C5-1
+Added Pin To Net: NetName=SENSOR_CHB Pin=C5-2
+Added Pin To Net: NetName=GND Pin=C6-1
+Added Pin To Net: NetName=VCC Pin=C6-2
+Added Pin To Net: NetName=GND Pin=C7-1
+Added Pin To Net: NetName=SENSOR_CHA Pin=C7-2
+Added Pin To Net: NetName=VIN Pin=R1-1
+Added Pin To Net: NetName=VCC Pin=R1-2
+Added Pin To Net: NetName=VCC Pin=R2-1
+Added Pin To Net: NetName=NetR2_2 Pin=R2-2
+Added Pin To Net: NetName=NetR2_2 Pin=R3-1
+Added Pin To Net: NetName=NetR3_2 Pin=R3-2
+Added Pin To Net: NetName=GND Pin=R4-1
+Added Pin To Net: NetName=NetR2_2 Pin=R4-2
+Added Pin To Net: NetName=VCC Pin=R5-1
+Added Pin To Net: NetName=NetR3_2 Pin=R5-2
+Added Pin To Net: NetName=NetC4_2 Pin=R6-1
+Added Pin To Net: NetName=VCC Pin=R6-2
+Added Pin To Net: NetName=NetR3_2 Pin=R7-1
+Added Pin To Net: NetName=OUT_CHB Pin=R7-2
+Added Pin To Net: NetName=SENSOR_CHB Pin=R8-1
+Added Pin To Net: NetName=NetR3_2 Pin=R8-2
+Added Pin To Net: NetName=NetR9_1 Pin=R9-1
+Added Pin To Net: NetName=SENSOR_CHB Pin=R9-2
+Added Pin To Net: NetName=NetR10_1 Pin=R10-1
+Added Pin To Net: NetName=SENSOR_CHA Pin=R10-2
+Added Pin To Net: NetName=VCC Pin=R11-1
+Added Pin To Net: NetName=NetR11_2 Pin=R11-2
+Added Pin To Net: NetName=NetR11_2 Pin=R12-1
+Added Pin To Net: NetName=NetR12_2 Pin=R12-2
+Added Pin To Net: NetName=GND Pin=R13-1
+Added Pin To Net: NetName=NetR11_2 Pin=R13-2
+Added Pin To Net: NetName=VCC Pin=R14-1
+Added Pin To Net: NetName=NetR12_2 Pin=R14-2
+Added Pin To Net: NetName=NetR12_2 Pin=R15-1
+Added Pin To Net: NetName=OUT_CHA Pin=R15-2
+Added Pin To Net: NetName=SENSOR_CHA Pin=R16-1
+Added Pin To Net: NetName=NetR12_2 Pin=R16-2
+Added Pin To Net: NetName=VIN Pin=U1-1
+Added Pin To Net: NetName=GND Pin=U1-2
+Added Pin To Net: NetName=VIN Pin=U1-3
+Added Pin To Net: NetName=VCC Pin=U1-5
+Added Pin To Net: NetName=NetR3_2 Pin=U2-1
+Added Pin To Net: NetName=SENSOR_CHB Pin=U2-2
+Added Pin To Net: NetName=NetR2_2 Pin=U2-3
+Added Pin To Net: NetName=GND Pin=U2-4
+Added Pin To Net: NetName=NetR11_2 Pin=U2-5
+Added Pin To Net: NetName=SENSOR_CHA Pin=U2-6
+Added Pin To Net: NetName=NetR12_2 Pin=U2-7
+Added Pin To Net: NetName=VCC Pin=U2-8
+Added Pin To Net: NetName=GND Pin=U3-1
+Added Pin To Net: NetName=NetR10_1 Pin=U3-2
+Added Pin To Net: NetName=NetC4_2 Pin=U3-3
+Added Pin To Net: NetName=NetR9_1 Pin=U3-4
+Added Pin To Net: NetName=VIN Pin=X1-1
+Added Pin To Net: NetName=OUT_CHB Pin=X1-2
+Added Pin To Net: NetName=OUT_CHA Pin=X1-3
+Added Pin To Net: NetName=GND Pin=X1-5
+Added Pin To Net: NetName=GND Pin=X1-6
+Added Pin To Net: NetName=GND Pin=X1-7
+Added Pin To Net: NetName=GND Pin=X1-8
+Added Pin To Net: NetName=GND Pin=X1-9
+Added Member To Class: ClassName=Shc_Encoder_Optic_Sensor Member=Component C1 TCAP CASE A
+Added Member To Class: ClassName=Shc_Encoder_Optic_Sensor Member=Component C2 Ceramic Capacitor X7R 10% 50V
+Added Member To Class: ClassName=Shc_Encoder_Optic_Sensor Member=Component C3 Ceramic Capacitor X7R 10% 50V
+Added Member To Class: ClassName=Shc_Encoder_Optic_Sensor Member=Component C4 Ceramic Capacitor X7R 10% 50V
+Added Member To Class: ClassName=Shc_Encoder_Optic_Sensor Member=Component C5 Ceramic Capacitor X7R 10% 50V
+Added Member To Class: ClassName=Shc_Encoder_Optic_Sensor Member=Component C6 Ceramic Capacitor X7R 10% 50V
+Added Member To Class: ClassName=Shc_Encoder_Optic_Sensor Member=Component C7 Ceramic Capacitor X7R 10% 50V
+Added Member To Class: ClassName=Shc_Encoder_Optic_Sensor Member=Component R1 Thick Film Resistor 0603 5%
+Added Member To Class: ClassName=Shc_Encoder_Optic_Sensor Member=Component R2 Thick Film Resistor 0402 5%
+Added Member To Class: ClassName=Shc_Encoder_Optic_Sensor Member=Component R3 Thick Film Resistor 0402 5%
+Added Member To Class: ClassName=Shc_Encoder_Optic_Sensor Member=Component R4 Thick Film Resistor 0402 5%
+Added Member To Class: ClassName=Shc_Encoder_Optic_Sensor Member=Component R5 Thick Film Resistor 0402 5%
+Added Member To Class: ClassName=Shc_Encoder_Optic_Sensor Member=Component R6 Thick Film Resistor 0603 5%
+Added Member To Class: ClassName=Shc_Encoder_Optic_Sensor Member=Component R7 Thick Film Resistor 0402 5%
+Added Member To Class: ClassName=Shc_Encoder_Optic_Sensor Member=Component R8 Thick Film Resistor 0402 5%
+Added Member To Class: ClassName=Shc_Encoder_Optic_Sensor Member=Component R9 Thick Film Resistor 0402 5%
+Added Member To Class: ClassName=Shc_Encoder_Optic_Sensor Member=Component R10 Thick Film Resistor 0402 5%
+Added Member To Class: ClassName=Shc_Encoder_Optic_Sensor Member=Component R11 Thick Film Resistor 0402 5%
+Added Member To Class: ClassName=Shc_Encoder_Optic_Sensor Member=Component R12 Thick Film Resistor 0402 5%
+Added Member To Class: ClassName=Shc_Encoder_Optic_Sensor Member=Component R13 Thick Film Resistor 0402 5%
+Added Member To Class: ClassName=Shc_Encoder_Optic_Sensor Member=Component R14 Thick Film Resistor 0402 5%
+Added Member To Class: ClassName=Shc_Encoder_Optic_Sensor Member=Component R15 Thick Film Resistor 0402 5%
+Added Member To Class: ClassName=Shc_Encoder_Optic_Sensor Member=Component R16 Thick Film Resistor 0402 5%
+Added Member To Class: ClassName=Shc_Encoder_Optic_Sensor Member=Component U1 TLV70233
+Added Member To Class: ClassName=Shc_Encoder_Optic_Sensor Member=Component U2 LM2903
+Added Member To Class: ClassName=Shc_Encoder_Optic_Sensor Member=Component U3 Q9845
+Added Member To Class: ClassName=Shc_Encoder_Optic_Sensor Member=Component X1 USB_mini

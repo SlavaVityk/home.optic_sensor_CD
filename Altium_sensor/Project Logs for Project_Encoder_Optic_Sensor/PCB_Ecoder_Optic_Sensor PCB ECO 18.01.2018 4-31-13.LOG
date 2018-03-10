@@ -1,0 +1,16 @@
+Added Component: Designator=X2(PAD_C_1.2mm)
+Add component. Clean all parameters for all variants
+Added Component: Designator=X3(PAD_C_1.2mm)
+Add component. Clean all parameters for all variants
+Added Component: Designator=X4(PAD_C_1.2mm)
+Add component. Clean all parameters for all variants
+Added Component: Designator=X5(PAD_C_1.2mm)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=OUT_CHB Pin=X2-1
+Added Pin To Net: NetName=VIN Pin=X3-1
+Added Pin To Net: NetName=OUT_CHA Pin=X4-1
+Added Pin To Net: NetName=GND Pin=X5-1
+Added Member To Class: ClassName=Shc_Encoder_Optic_Sensor Member=Component X2 PAD_C_1.2MM
+Added Member To Class: ClassName=Shc_Encoder_Optic_Sensor Member=Component X3 PAD_C_1.2MM
+Added Member To Class: ClassName=Shc_Encoder_Optic_Sensor Member=Component X4 PAD_C_1.2MM
+Added Member To Class: ClassName=Shc_Encoder_Optic_Sensor Member=Component X5 PAD_C_1.2MM

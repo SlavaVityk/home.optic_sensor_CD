@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=VCC Pin=C1-+
+Removed Pin From Net: NetName=VCC Pin=R6-2
+Change Component Footprint: Designator=U3 Old Footprint=SENSOR_OPTO-ENCODER New Footprint=SENSOR_OPTO-Encoder Rp
+Added Pin To Net: NetName=VIN Pin=C1-+
+Added Pin To Net: NetName=VIN Pin=R6-2
